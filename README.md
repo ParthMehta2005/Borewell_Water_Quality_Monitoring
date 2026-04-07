@@ -1,6 +1,6 @@
 # 💧 Quality Analysis of Borewell Water
 
-📄 Based on our research paper: *"Quality Analysis of Borewell Water"*
+📄 **Research Paper:** [Quality Analysis of Borewell Water](https://www.researchgate.net/publication/400467685_Quality_analysis_of_borewell_water)
 
 ---
 
