@@ -4,6 +4,8 @@ This project is an interactive web application built using **Gradio** for foreca
 
 It allows users to upload water quality datasets, train a model on-the-fly, and generate future WQI predictions.
 
+Click here to try it yourself 👉 [My Space](https://huggingface.co/spaces/ishaantherguy/IPD_borewell_space)
+
 ---
 
 ## 🚀 Features
@@ -88,7 +90,7 @@ Main libraries used:
 
 ## 🖥️ Application Code
 
-The full implementation is available in 
+The full implementation is available in [My Space](https://huggingface.co/spaces/ishaantherguy/IPD_borewell_space)
 
 ---
 
