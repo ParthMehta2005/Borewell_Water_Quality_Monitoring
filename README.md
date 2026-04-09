@@ -1,5 +1,9 @@
 # 💧 Quality Analysis of Borewell Water
 
+## AVINYA Tech Expo Poster
+![Project Banner](https://github.com/ParthMehta2005/Borewell_Water_Quality_Monitoring/blob/main/AVINYA%20POSTER%20IPD.png)
+
+
 📄 **Research Paper:** [Quality Analysis of Borewell Water](https://www.researchgate.net/publication/400467685_Quality_analysis_of_borewell_water)
 
 ---
