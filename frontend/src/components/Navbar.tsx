@@ -18,7 +18,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <Link to="/" className="flex items-center space-x-2">
           <Activity className="text-blue-400 w-8 h-8" />
-          <span className="text-2xl font-bold text-gradient">BorewellAI</span>
+          <span className="text-2xl font-bold text-gradient">Jal Suraksha</span>
         </Link>
 
         {/* Desktop Nav */}

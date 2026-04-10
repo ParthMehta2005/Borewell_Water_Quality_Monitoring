@@ -17,7 +17,7 @@ function App() {
       </main>
       <footer className="border-t border-white/10 py-12 mt-20">
         <div className="max-w-7xl mx-auto px-6 text-center text-slate-400 text-sm">
-          <p>© 2026 BorewellAI - Water Quality Analysis Rover System</p>
+          <p>© 2026 Jal Suraksha - Water Quality Analysis Rover System</p>
           <p className="mt-2">Empowering safe water access through AI and IoT</p>
         </div>
       </footer>
