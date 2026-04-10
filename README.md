@@ -1,4 +1,3 @@
- HEAD
 # 💧 Quality Analysis of Borewell Water
 
 ## AVINYA Tech Expo Poster
