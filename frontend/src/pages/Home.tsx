@@ -24,12 +24,14 @@ const Home = () => {
             <span className="text-gradient">Borewell Analysis</span>
           </h1>
           <p className="text-lg text-slate-300 leading-relaxed max-w-lg">
-            Our autonomous rover leverages advanced IoT sensors and Machine Learning to provide real-time water quality insights, ensuring safe usage for drinking and irrigation.
+           A calibrated set of five sensors: pH, Turbidity, TDS, MQ-135, and Dissolved Oxygen - mounted on an ESP32-S3 microcontroller continuously monitor key physicochemical parameters of borewell water, enabling real-time detection of contamination and automated classification for drinking, agricultural, or industrial suitability.
           </p>
           <div className="flex space-x-4">
-            <button className="btn-primary">Get Started</button>
-            <button className="px-6 py-3 border border-white/20 rounded-full font-semibold hover:bg-white/5 transition-colors">
-              Read Docs
+            {/* <button className="btn-primary">Get Started</button> */}
+            <button className="btn-primary">
+             <a href="https://github.com/ParthMehta2005/Borewell_Water_Quality_Monitoring.git"
+              target="_blank"
+              rel="noopener noreferrer">Read Docs</a> 
             </button>
           </div>
         </motion.div>
@@ -41,7 +43,7 @@ const Home = () => {
         >
           <div className="absolute -inset-4 bg-blue-500/20 rounded-full blur-3xl group-hover:bg-blue-500/30 transition-all"></div>
           <img 
-            src="/borewell_rover_rover.png" 
+            src="/home.png" 
             alt="Borewell Rover" 
             className="relative rounded-3xl shadow-2xl border border-white/10"
           />
